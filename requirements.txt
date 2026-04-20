@@ -1,0 +1,7 @@
+# RailGuard AI — Python Dependencies  (v1.1.0 — no pygame)
+# Install with:  pip install -r requirements.txt
+
+ultralytics>=8.0.0       # YOLOv8 (auto-downloads model weights on first run)
+opencv-python>=4.8.0     # Real-time video capture & drawing
+
+# winsound is built into Python on Windows — nothing to install!
