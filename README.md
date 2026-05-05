@@ -1,7 +1,9 @@
 
 # 🚆 RailGuard AI — Railway Safety System
 
-Real-time human & animal detection on a virtual railway track zone using YOLOv8 + OpenCV + pygame.
+> AI-powered real-time railway safety monitoring system to prevent accidents using computer vision.
+
+Real-time human and animal detection on a virtual railway track zone using YOLOv8 , OpenCV , pygame.
 
 ---
 
@@ -12,6 +14,12 @@ Railway tracks are vulnerable to accidents caused by humans or animals entering 
 RailGuard AI aims to provide an automated, real-time detection and alert system to improve railway safety and reduce potential accidents.
 
 ---
+## Tech Stack
+- Python
+- OpenCV
+- YOLOv8 (Ultralytics)
+- Pygame
+
 
 ## How It Works
 
@@ -77,10 +85,6 @@ Press **Q** inside the window to quit.
 ![Cow Detection](cow.jpg)
 ![Dog Detection](dog.jpg)
 ![Horse Detection](horse.jpg)
-
-### Alert Snapshot
-![Alert Snapshot](images/alert_snapshot.png)
-
 
 
 ---
