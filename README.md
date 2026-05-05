@@ -71,10 +71,12 @@ Press **Q** inside the window to quit.
 ## Output Screenshots
 
 ### Human Detection
-![Human Detection] Human.jpg
+![Human Detection](Human.jpg)
 
 ### Animal Detection
-![Animal Detection] cow.jpg,
+![Cow Detection](cow.jpg)
+![Dog Detection](dog.jpg)
+![Horse Detection](horse.jpg)
 
 ### Alert Snapshot
 ![Alert Snapshot](images/alert_snapshot.png)
